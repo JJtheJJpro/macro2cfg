@@ -1,0 +1,9 @@
+[package]
+name = "macro2cfg"
+version = "0.0.1"
+edition = "2024"
+authors = ["JJ"]
+license = "MIT OR Apache-2.0"
+description = "GCC, Clang, and MSVC pre-defined macros, converted to Rust's cfg macros."
+repository = "https://github.com/JJtheJJpro/macro2cfg"
+readme = "README.md"
